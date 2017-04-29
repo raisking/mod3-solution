@@ -1,0 +1,45 @@
+body{
+	font-family: 'Noto Sans', sans-serif;
+}
+.navbar-default .navbar-brand{	
+	font-size: 3.5rem;
+	color: #000;
+	font-weight: bold;
+}
+.chicken-box{
+	background: #cecaca;
+	margin: 30px;
+	padding: 20px;
+}
+#color-dropdown{
+	background: #3B5998;
+}
+.navbar-default .navbar-nav li a{
+	color: #fff;
+	border: 1px solid #337ab7;
+}
+.navbar-default .navbar-nav li a:hover{
+	color: #fff;
+	font-weight: bold;
+}
+.navbar-default .navbar-toggle {
+	border-color: 	#4297c1;
+	
+}
+.navbar-top{
+	background: #f0f0f5;
+}
+.navbar-default{
+	background-color: #fff;
+	border-color: #286090;
+
+}
+.navbar-default .navbar-toggle .icon-bar{
+	background-color: #337ab7;
+}
+.navbar-nav{
+	margin: auto -15px;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{
+	background-color: #d9edf7;
+}
